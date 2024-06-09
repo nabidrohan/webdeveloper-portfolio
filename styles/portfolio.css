@@ -2,6 +2,7 @@ nav{
     display:flex;
     justify-content:space-between;
     align-items: center;
+    margin:0px 200px
     
     
 
@@ -46,4 +47,19 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 padding: 15px 35px;
+border: 0;
+}
+header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+
+}
+.banner .profile-picture{
+    width: 584px;
+height: 676px;
+flex-shrink: 0;
+
 }
